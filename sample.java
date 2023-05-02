@@ -1,6 +1,11 @@
 class sample 
 psvm(string array args)
 {
-	new sample().add(system.out.println("hello java"));
+	(system.out.println("hello java"));
+	(system.out.println("hello java"));
+(system.out.println("hello java"));
+(system.out.println("hello java"));
+  (system.out.orintln("hello java"));
 }
 
+ 
